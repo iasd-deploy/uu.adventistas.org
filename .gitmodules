@@ -1,0 +1,6 @@
+[submodule "wp-content/themes/pa-theme-sedes"]
+	path = wp-content/themes/pa-theme-sedes
+url=https://github.com/igrejaadventista/pa-theme-sedes.git
+[submodule "wp-content/themes/pa-theme-sedes-child"]
+	path = wp-content/themes/pa-theme-sedes-child
+url=https://github.com/igrejaadventista/pa-theme-sedes-child.git
